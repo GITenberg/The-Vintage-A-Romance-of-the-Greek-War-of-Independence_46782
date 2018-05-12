@@ -1,9 +1,13 @@
 _repo: The-Vintage-A-Romance-of-the-Greek-War-of-Independence_46782
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Jacomb-Hood, George Percy
     gutenberg_agent_id: '43957'
     url: http://www.gutenberg.org/2009/agents/43957
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Benson, E. F. (Edward Frederic)
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/812
     wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46782#The-Vintage-A-Romance-of-the-Greek-War-of-Independence
 gutenberg_issued: '2014-09-06'
 gutenberg_type: Text
 identifiers:
